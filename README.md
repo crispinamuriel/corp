@@ -1,6 +1,6 @@
 # Dear Hiring Manager
 
-Hey! 👋 You might be here because I applied to your open position.
+Hey! 👋 You might be here because I applied to an open Software Developer position.
 I am using this repository to build up my knowledge of Next.js by practicing my JSX, Tailwind styling, and of course the built-in Next.js features like Link, Image, and page routing! Cheers! 🥂
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
