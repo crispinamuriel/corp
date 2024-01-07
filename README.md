@@ -5,7 +5,7 @@ I am using this repository to build up my knowledge of Next.js by practicing my 
 
 ## Deployed with Vercel
 
-This project has been deployed to production using Vercel. You can find the production link [here](https://corp-ka3atibfe-crispina-muriels-projects.vercel.app)
+This Next.js project has been deployed to production using *Vercel*. You can find the production link [here.](https://corp-ka3atibfe-crispina-muriels-projects.vercel.app)
 
 ## Info
 
