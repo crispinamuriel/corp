@@ -3,7 +3,7 @@ import performanceImg from 'public/performance.jpg';
 
 const Performance = () => {
   return (
-    <Hero imgData={performanceImg} imgAlt={"assembly line"} title={"Blazing fast performance"} />
+    <Hero imgData={performanceImg} imgAlt={"welding"} title={"Blazing fast performance"} />
   )
 }
 
