@@ -1,7 +1,7 @@
 # Dear Hiring Manager
 
 Hey! 👋 You might be here because I applied to an open Software Developer position.
-I am using this repository to build up my knowledge of Next.js by practicing my JSX, Tailwind styling, and of course the built-in Next.js features like Link, Image, and page routing! Cheers! 🥂
+I am using this repository to build up my knowledge of Next.js by practicing my JSX, Tailwind styling, and of course the built-in Next.js features like Link, Image, and file-based routing system! Cheers! 🥂
 
 ## Deployed with Vercel
 
